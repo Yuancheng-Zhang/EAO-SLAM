@@ -4,6 +4,7 @@
  * The code comes from Cube SLAM <https://github.com/shichaoy/cube_slam>
  */
 
+#include <numeric>
 #include "detect_3d_cuboid/matrix_utils.h"
 
 // std c

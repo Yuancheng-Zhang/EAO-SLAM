@@ -4,6 +4,8 @@
  * The code comes from Cube SLAM <https://github.com/shichaoy/cube_slam>
  */
 
+#include <numeric>
+
 // std c
 #include <stdio.h>
 #include <math.h>
